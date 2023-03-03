@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_02_28_004234) do
+ActiveRecord::Schema[7.0].define(version: 2023_03_03_000409) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -20,6 +20,13 @@ ActiveRecord::Schema[7.0].define(version: 2023_02_28_004234) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["player_id"], name: "index_notifications_on_player_id"
+  end
+
+  create_table "player_user_subscriptions", id: false, force: :cascade do |t|
+    t.bigint "player_id", null: false
+    t.bigint "user_id", null: false
+    t.index ["player_id", "user_id"], name: "index_player_user_subscriptions_on_player_id_and_user_id"
+    t.index ["user_id", "player_id"], name: "index_player_user_subscriptions_on_user_id_and_player_id"
   end
 
   create_table "players", force: :cascade do |t|
@@ -37,6 +44,14 @@ ActiveRecord::Schema[7.0].define(version: 2023_02_28_004234) do
   create_table "teams", force: :cascade do |t|
     t.string "name"
     t.string "acronym"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "users", force: :cascade do |t|
+    t.string "name"
+    t.string "email"
+    t.string "password_digest"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

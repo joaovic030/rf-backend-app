@@ -16,5 +16,9 @@ module Types
     # User
     field :create_user, mutation: Mutations::User::CreateUser
     field :signin_user, mutation: Mutations::User::SignInUser
+
+    # Subscriptions
+    field :activate_subscription, mutation: Mutations::Subscription::ActivateSubscription
+    field :cancel_subscription, mutation: Mutations::Subscription::CancelSubscription
   end
 end
