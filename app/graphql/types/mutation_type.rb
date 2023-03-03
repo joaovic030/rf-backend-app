@@ -12,5 +12,9 @@ module Types
 
     # Notifications
     field :create_notification, mutation: Mutations::Notification::CreateNotification
+
+    # User
+    field :create_user, mutation: Mutations::User::CreateUser
+    field :signin_user, mutation: Mutations::User::SignInUser
   end
 end
