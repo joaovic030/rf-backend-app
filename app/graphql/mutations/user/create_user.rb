@@ -8,13 +8,15 @@ module Mutations
       end
 
       argument :name, String, required: true
+      argument :admin, Boolean, required: false
       argument :auth_provider, AuthProviderSignupData, required: false
 
       type Types::User::UserType
 
-      def resolve(name: nil, auth_provider: nil)
+      def resolve(name: nil, admin: nil, auth_provider: nil)
         ::User.create!(
           name: name,
+          admin: admin,
           email: auth_provider&.[](:credentials)&.[](:email),
           password: auth_provider&.[](:credentials)&.[](:password)
         )
