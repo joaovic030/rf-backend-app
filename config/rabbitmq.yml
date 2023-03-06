@@ -1,0 +1,24 @@
+common_config: &common_config
+  durable: true
+  type: direct
+  arguments: {}
+
+exchanges:
+  player:
+    <<: *common_config
+    contexts:
+      subscription:
+        exchange_name: player.subscription
+        queues:
+          broadcast_notification:
+            queue_name: broadcast_notification
+            routing_key: player.subscription.broadcast_notification
+            durable: true
+          create_notification:
+            queue_name: create_notification
+            routing_key: player.subscription.create_notification
+            durable: true
+          publish_notification:
+            queue_name: publish_notification
+            routing_key: player.subscription.publish_notification
+            durable: true
