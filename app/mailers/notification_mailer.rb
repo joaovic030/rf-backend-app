@@ -1,5 +1,5 @@
 class NotificationMailer < ApplicationMailer
-  default from: 'notifications-rf@gmail.com'
+  default from: 'notifications.rfevr@gmail.com'
   # password: 123$%^As
 
   def send_notification

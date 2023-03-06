@@ -7,16 +7,24 @@ module Notifications
                routing_key: 'player.subscription.create_notification'
 
     def work(raw_data)
-      byebug
       data = JSON.parse(raw_data).deep_symbolize_keys
 
-      NotificationServices::Create.run(**data)
+      notification_data = notifications_params(data[:data])
 
-      Notification::TriggerNotification.run(**data)
+      NotificationServices::Create.run(**notification_data)
+
+      NotificationServices::TriggerNotification.run(**notification_data)
 
       ack!
     rescue => _e
       reject!
+    end
+
+    def notifications_params(data)
+      {
+        player_id: data[:player_id],
+        message: data[:message]
+      }
     end
   end
 end

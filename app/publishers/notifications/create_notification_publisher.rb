@@ -44,7 +44,6 @@ module Notifications
         routing_key:   ROUTING_KEY,
         exchange_name: EXCHANGE_NAME,
         queue:         QUEUE,
-        mandatory: true
       }
     end
   end

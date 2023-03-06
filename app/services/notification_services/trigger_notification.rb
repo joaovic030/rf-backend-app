@@ -15,7 +15,6 @@ module NotificationServices
 
     def run
       recipients.each do |subscription|
-        byebug
         Notifications::BroadcastNotificationPublisher.publish(subscription.user_id, @message)
       end
     end
