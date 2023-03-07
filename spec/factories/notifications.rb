@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :notification do
-    player { nil }
-    message { "MyString" }
+    player
+    message { Faker::Lorem.paragraph }
   end
 end

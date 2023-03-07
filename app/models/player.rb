@@ -2,7 +2,7 @@ class Player < ApplicationRecord
   has_many :player_user_subscriptions
   belongs_to :team, optional: true
 
-  after_save :publish_notification
+  after_update :publish_notification
 
   validates :name, :position, presence: true
 
@@ -11,11 +11,10 @@ class Player < ApplicationRecord
   end
 
   def track_changes
-    message = "Player #{name} updated. Follow the changes:\n"
-    previous_changes.each_pair do |key, value|
-      message += "#{key} => from: #{value.first} to: #{value.last}\n"
+    "Player #{name} updated. Follow the changes:\n".tap do |text|
+      previous_changes.each_pair do |key, value|
+        text += "#{key} => from: #{value.first} to: #{value.last}\n"
+      end
     end
-
-    message
   end
 end
