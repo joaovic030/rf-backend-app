@@ -27,7 +27,7 @@ namespace :rabbitmq do
 
           puts "Creating queue #{context_queue[:queue_name]}\n"
 
-          queue = channel.queue(context_queue[:queue_name], durable: context_queue[:durable])
+          queue = channel.queue(context_queue[:queue_name], durable: context_queue[:durable], arguments: context_queue[:arguments])
 
           puts "Binding queue #{context_queue[:queue_name]} to exchange #{context[:exchange_name]}\n"
 
@@ -35,9 +35,6 @@ namespace :rabbitmq do
 
           puts "#{context[:exchange_name]} ==> #{context_queue[:queue_name]}\n\n"
         end
-        #
-        # create_notif = channel.queue('player.subscription.publish_notification', durable: true)
-        # create_notif.bind('player.subscription.create_notification')
       end
     end
 

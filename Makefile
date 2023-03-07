@@ -12,8 +12,12 @@ down:
 start:
 	RAILS_ENV=development bash ./server.sh
 
+setup-queues-and-run:
+    make sneakers
+    make setup-rabbitmq
+
 setup-rabbitmq:
-	rake rabbitmq:setup
+	bundle exec rake rabbitmq:setup
 
 sneakers:
 	bundle exec rake sneakers:run

@@ -11,10 +11,11 @@ class Player < ApplicationRecord
   end
 
   def track_changes
-    "Player #{name} updated. Follow the changes:\n".tap do |text|
-      previous_changes.each_pair do |key, value|
-        text += "#{key} => from: #{value.first} to: #{value.last}\n"
-      end
+    message = "Player #{name} updated. Follow the changes:\n"
+    previous_changes.each_pair do |key, value|
+      message += "#{key} => from: #{value.first} to: #{value.last}\n"
     end
+
+    message
   end
 end

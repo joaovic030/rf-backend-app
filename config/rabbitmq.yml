@@ -18,7 +18,15 @@ exchanges:
             queue_name: create_notification
             routing_key: player.subscription.create_notification
             durable: true
-          publish_notification:
-            queue_name: publish_notification
-            routing_key: player.subscription.publish_notification
+  delayed_messages:
+    <<: *common_config
+    type: x-delayed-message
+    arguments: { "x-delayed-type": "direct" }
+    contexts:
+      subscription:
+        exchange_name: delayed_messages.subscription
+        queues:
+          delete_notification:
+            queue_name: delete_notification
+            routing_key: delayed_messages.subscription.delete_notification
             durable: true
