@@ -13,6 +13,8 @@ module Notifications
 
       notification = NotificationServices::Create.run(**notification_data)
 
+      raise notification.errors if notification.errors.present?
+
       NotificationServices::TriggerNotification.run(**notification_data)
 
       Notifications::Delayed::DeleteNotificationPublisher.publish(notification.id)

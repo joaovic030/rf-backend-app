@@ -1,6 +1,6 @@
 module NotificationServices
   class Create
-    attr_reader :notification
+    attr_reader :notification, :errors
 
     class << self
       def run(player_id:, message:)
@@ -11,6 +11,7 @@ module NotificationServices
     def initialize(player_id, message)
       @player_id = player_id
       @message = message
+      @errors = nil
     end
 
     def run
@@ -18,6 +19,11 @@ module NotificationServices
         player_id: @player_id,
         message: @message
       )
+
+      self
+    rescue ActiveRecord::RecordInvalid => e
+      @errors = e.message
+      self
     end
   end
 end

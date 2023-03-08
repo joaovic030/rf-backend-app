@@ -1,7 +1,5 @@
 module NotificationServices
   class TriggerNotification
-    attr_reader :notification
-
     class << self
       def run(player_id:, message:)
         new(player_id, message).run

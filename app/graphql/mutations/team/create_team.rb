@@ -2,7 +2,7 @@ module Mutations
   module Team
     class CreateTeam < BaseMutation
       argument :name, String, required: true
-      argument :acronym, String, required: false
+      argument :acronym, String, required: true
 
       type Types::Team::TeamType
 
