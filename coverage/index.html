@@ -14,7 +14,7 @@
       <img src="./assets/0.12.3/loading.gif" alt="loading"/>
     </div>
     <div id="wrapper" class="hide">
-      <div class="timestamp">Generated <abbr class="timeago" title="2023-03-09T00:39:47-04:00">2023-03-09T00:39:47-04:00</abbr></div>
+      <div class="timestamp">Generated <abbr class="timeago" title="2023-03-09T01:02:02-04:00">2023-03-09T01:02:02-04:00</abbr></div>
       <ul class="group_tabs"></ul>
 
       <div id="content">
@@ -12868,7 +12868,7 @@
 
             
 
-            <code class="ruby">      notification = NotificationServices::Create.run(**notification_data)</code>
+            <code class="ruby">      notification_service = NotificationServices::Create.run(**notification_data)</code>
           </li>
         </div>
       
@@ -12890,7 +12890,7 @@
 
             
 
-            <code class="ruby">      raise notification.errors if notification.errors.present?</code>
+            <code class="ruby">      raise notification_service.errors if notification_service.errors.present?</code>
           </li>
         </div>
       
@@ -12934,7 +12934,7 @@
 
             
 
-            <code class="ruby">      Notifications::Delayed::DeleteNotificationPublisher.publish(notification.id)</code>
+            <code class="ruby">      Notifications::Delayed::DeleteNotificationPublisher.publish(notification_service.notification.id)</code>
           </li>
         </div>
       

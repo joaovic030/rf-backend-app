@@ -19,7 +19,7 @@ describe Notifications::CreateNotificationWorker, type: :worker do
 
   let(:create_service) { NotificationServices::Create }
   let(:stub_create_service) { double(NotificationServices::Create, {
-    id: notification.id,
+    notification: notification,
     errors: nil
   }) }
   let(:trigger_service) { NotificationServices::TriggerNotification }

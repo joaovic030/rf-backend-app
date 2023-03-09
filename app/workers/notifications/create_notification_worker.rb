@@ -11,13 +11,13 @@ module Notifications
 
       notification_data = notifications_params(data[:data])
 
-      notification = NotificationServices::Create.run(**notification_data)
+      notification_service = NotificationServices::Create.run(**notification_data)
 
-      raise notification.errors if notification.errors.present?
+      raise notification_service.errors if notification_service.errors.present?
 
       NotificationServices::TriggerNotification.run(**notification_data)
 
-      Notifications::Delayed::DeleteNotificationPublisher.publish(notification.id)
+      Notifications::Delayed::DeleteNotificationPublisher.publish(notification_service.notification.id)
 
       ack!
     rescue => _e
