@@ -10,27 +10,17 @@ down:
 	${DCMP} down
 
 start:
-	RAILS_ENV=development bash ./server.sh
+	RAILS server
 
 setup-queues-and-run:
-    make sneakers
-    make setup-rabbitmq
+	make sneakers-run
+	make setup-rabbitmq
 
 setup-rabbitmq:
 	bundle exec rake rabbitmq:setup
 
-sneakers:
+sneakers-run:
 	bundle exec rake sneakers:run
 
-dbrenew:
-	${RAILS} db:drop db:create db:migrate db:test:prepare
-
-dbreseed:
-	${RAILS} db:drop db:create db:migrate db:seed db:test:prepare
-
-rebuild:
-	${DCMP} up
-
-create-env-file:
-	cp .example.env .env
-
+seed-players:
+	rake data_from_api:load

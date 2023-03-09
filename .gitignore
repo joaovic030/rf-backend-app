@@ -13,6 +13,9 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+.byebugrc
+.byebug_history
+coverage/
 
 # Ignore pidfiles, but keep the directory.
 /tmp/pids/*

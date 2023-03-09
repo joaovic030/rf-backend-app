@@ -1,0 +1,3670 @@
+{
+  "data":{
+    "teams":[
+      {
+        "name":"Belenenses",
+        "acronym":"BFS",
+        "players":[
+          {
+            "name":"Filipe Mendes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1985-06-17",
+            "position":"G"
+          },
+          {
+            "name":"André Geraldes",
+            "number":28,
+            "nationality":"Portugal",
+            "birthdate":"1991-05-02",
+            "position":"D"
+          },
+          {
+            "name":"Fredy",
+            "number":"nil",
+            "nationality":"Angola",
+            "birthdate":"1990-03-27",
+            "position":"M"
+          },
+          {
+            "name":"Tiago Caeiro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1984-03-29",
+            "position":"A"
+          },
+          {
+            "name":"Vincent Sasso",
+            "number":"nil",
+            "nationality":"France",
+            "birthdate":"1991-02-16",
+            "position":"D"
+          },
+          {
+            "name":"Diogo Viana",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-02-22",
+            "position":"D"
+          },
+          {
+            "name":"André Moreira",
+            "number":1,
+            "nationality":"Portugal",
+            "birthdate":"1995-12-02",
+            "position":"G"
+          },
+          {
+            "name":"Filipe Chaby",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-01-22",
+            "position":"M"
+          },
+          {
+            "name":"Bouba Saré",
+            "number":"nil",
+            "nationality":"Côte d'Ivoire",
+            "birthdate":"1990-04-05",
+            "position":"M"
+          },
+          {
+            "name":"Yazalde",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-09-21",
+            "position":"A"
+          },
+          {
+            "name":"Gonçalo Silva",
+            "number":37,
+            "nationality":"Portugal",
+            "birthdate":"1991-06-04",
+            "position":"D"
+          },
+          {
+            "name":"Nuno Tomás",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-09-15",
+            "position":"D"
+          },
+          {
+            "name":"André Sousa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-07-09",
+            "position":"M"
+          },
+          {
+            "name":"Licá",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-09-08",
+            "position":"A"
+          },
+          {
+            "name":"Maurides",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-03-10",
+            "position":"A"
+          },
+          {
+            "name":"Marko Bakic",
+            "number":"nil",
+            "nationality":"Montenegro",
+            "birthdate":"1993-11-01",
+            "position":"M"
+          },
+          {
+            "name":"Hassan Yebda",
+            "number":"nil",
+            "nationality":"Algeria",
+            "birthdate":"1984-05-14",
+            "position":"M"
+          },
+          {
+            "name":"Florent Hanin",
+            "number":"nil",
+            "nationality":"France",
+            "birthdate":"1990-02-04",
+            "position":"D"
+          },
+          {
+            "name":"Benny",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-01-04",
+            "position":"M"
+          },
+          {
+            "name":"Robert Persson",
+            "number":"nil",
+            "nationality":"Sweden",
+            "birthdate":"1987-03-26",
+            "position":"M"
+          },
+          {
+            "name":"Muriel",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1987-02-14",
+            "position":"G"
+          },
+          {
+            "name":"Ricardo Fernandes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-10-28",
+            "position":"G"
+          },
+          {
+            "name":"Bruno Pereirinha",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-03-02",
+            "position":"D"
+          },
+          {
+            "name":"Merlin Tandjigora",
+            "number":"nil",
+            "nationality":"Gabon",
+            "birthdate":"1990-06-04",
+            "position":"M"
+          },
+          {
+            "name":"Cleylton",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-03-19",
+            "position":"D"
+          },
+          {
+            "name":"Roni Rodrigues",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-01-26",
+            "position":"M"
+          },
+          {
+            "name":"Nathan",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-03-13",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Benfica",
+        "acronym":"SLB",
+        "players":[
+          {
+            "name":"Paulo Lopes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1978-06-29",
+            "position":"G"
+          },
+          {
+            "name":"André Almeida",
+            "number":34,
+            "nationality":"Portugal",
+            "birthdate":"1990-09-10",
+            "position":"D"
+          },
+          {
+            "name":"Jardel",
+            "number":33,
+            "nationality":"Brazil",
+            "birthdate":"1986-03-29",
+            "position":"D"
+          },
+          {
+            "name":"Luisão",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1981-02-13",
+            "position":"D"
+          },
+          {
+            "name":"Ljubomir Fejsa",
+            "number":"nil",
+            "nationality":"Serbia",
+            "birthdate":"1988-08-19",
+            "position":"M"
+          },
+          {
+            "name":"Eduardo Salvio",
+            "number":11,
+            "nationality":"Argentina",
+            "birthdate":"1990-07-13",
+            "position":"M"
+          },
+          {
+            "name":"Rafa Silva",
+            "number":27,
+            "nationality":"Portugal",
+            "birthdate":"1993-05-17",
+            "position":"M"
+          },
+          {
+            "name":"Eliseu",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1983-10-01",
+            "position":"D"
+          },
+          {
+            "name":"Andreas Samaris",
+            "number":22,
+            "nationality":"Greece",
+            "birthdate":"1989-06-13",
+            "position":"M"
+          },
+          {
+            "name":"Pizzi",
+            "number":21,
+            "nationality":"Portugal",
+            "birthdate":"1989-10-06",
+            "position":"M"
+          },
+          {
+            "name":"Jonas",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1984-01-04",
+            "position":"A"
+          },
+          {
+            "name":"Bruno Varela",
+            "number":1,
+            "nationality":"Portugal",
+            "birthdate":"1994-11-04",
+            "position":"G"
+          },
+          {
+            "name":"Raúl Jiménez",
+            "number":9,
+            "nationality":"Mexico",
+            "birthdate":"1991-05-05",
+            "position":"A"
+          },
+          {
+            "name":"Filip Krovinović",
+            "number":"nil",
+            "nationality":"Croatia",
+            "birthdate":"1995-08-29",
+            "position":"M"
+          },
+          {
+            "name":"Diogo Gonçalves",
+            "number":17,
+            "nationality":"Portugal",
+            "birthdate":"1997-02-06",
+            "position":"M"
+          },
+          {
+            "name":"Rúben Dias",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-05-14",
+            "position":"D"
+          },
+          {
+            "name":"João Carvalho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-03-09",
+            "position":"M"
+          },
+          {
+            "name":"Fábio Duarte",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1998-05-11",
+            "position":"G"
+          },
+          {
+            "name":"Álex Grimaldo",
+            "number":3,
+            "nationality":"Spain",
+            "birthdate":"1995-09-20",
+            "position":"D"
+          },
+          {
+            "name":"Douglas",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-08-06",
+            "position":"D"
+          },
+          {
+            "name":"Branimir Kalaica",
+            "number":77,
+            "nationality":"Croatia",
+            "birthdate":"1998-06-01",
+            "position":"D"
+          },
+          {
+            "name":"Franco Cervi",
+            "number":11,
+            "nationality":"Argentina",
+            "birthdate":"1994-05-26",
+            "position":"M"
+          },
+          {
+            "name":"Andrija Živković",
+            "number":14,
+            "nationality":"Serbia",
+            "birthdate":"1996-07-11",
+            "position":"M"
+          },
+          {
+            "name":"Mile Svilar",
+            "number":1,
+            "nationality":"Belgium",
+            "birthdate":"1999-08-27",
+            "position":"G"
+          },
+          {
+            "name":"Haris Seferović",
+            "number":14,
+            "nationality":"Switzerland",
+            "birthdate":"1992-02-22",
+            "position":"A"
+          },
+          {
+            "name":"Martin Chrien",
+            "number":"nil",
+            "nationality":"Slovakia",
+            "birthdate":"1995-08-09",
+            "position":"M"
+          },
+          {
+            "name":"Keaton Parks",
+            "number":"nil",
+            "nationality":"United States of America",
+            "birthdate":"1997-08-06",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Boavista",
+        "acronym":"BFC",
+        "players":[
+          {
+            "name":"Nuno Henrique",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-10-19",
+            "position":"D"
+          },
+          {
+            "name":"David Simão",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-05-15",
+            "position":"M"
+          },
+          {
+            "name":"Vagner",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1986-06-06",
+            "position":"G"
+          },
+          {
+            "name":"Assis Giovanaz",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-04-10",
+            "position":"G"
+          },
+          {
+            "name":"Douglas Abner",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-01-30",
+            "position":"A"
+          },
+          {
+            "name":"Idrissa Mandiang",
+            "number":"nil",
+            "nationality":"Senegal",
+            "birthdate":"1984-12-27",
+            "position":"M"
+          },
+          {
+            "name":"Kuca",
+            "number":8,
+            "nationality":"Cabo Verde",
+            "birthdate":"1989-08-02",
+            "position":"M"
+          },
+          {
+            "name":"Vítor Bruno",
+            "number":90,
+            "nationality":"Portugal",
+            "birthdate":"1990-01-13",
+            "position":"D"
+          },
+          {
+            "name":"Tiago Mesquita",
+            "number":28,
+            "nationality":"Portugal",
+            "birthdate":"1990-11-23",
+            "position":"D"
+          },
+          {
+            "name":"Edu Machado",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-04-26",
+            "position":"D"
+          },
+          {
+            "name":"Renato Santos",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-10-05",
+            "position":"M"
+          },
+          {
+            "name":"Gilson Costa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-09-24",
+            "position":"M"
+          },
+          {
+            "name":"Leonardo Ruíz",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1996-04-18",
+            "position":"A"
+          },
+          {
+            "name":"Rui Pedro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1998-03-20",
+            "position":"A"
+          },
+          {
+            "name":"Mateus",
+            "number":"nil",
+            "nationality":"Angola",
+            "birthdate":"1984-06-18",
+            "position":"M"
+          },
+          {
+            "name":"Fábio Espinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1985-08-18",
+            "position":"M"
+          },
+          {
+            "name":"Aymen Tahar",
+            "number":"nil",
+            "nationality":"Algeria",
+            "birthdate":"1989-02-10",
+            "position":"M"
+          },
+          {
+            "name":"João Talocha",
+            "number":31,
+            "nationality":"Portugal",
+            "birthdate":"1989-08-30",
+            "position":"D"
+          },
+          {
+            "name":"Carraça",
+            "number":15,
+            "nationality":"Portugal",
+            "birthdate":"1993-03-01",
+            "position":"D"
+          },
+          {
+            "name":"Rochinha",
+            "number":16,
+            "nationality":"Portugal",
+            "birthdate":"1995-05-03",
+            "position":"M"
+          },
+          {
+            "name":"Iván Bulos",
+            "number":"nil",
+            "nationality":"Peru",
+            "birthdate":"1993-05-20",
+            "position":"A"
+          },
+          {
+            "name":"Eddy Francis",
+            "number":"nil",
+            "nationality":"China",
+            "birthdate":"1990-12-17",
+            "position":"D"
+          },
+          {
+            "name":"Ricardo Clarke",
+            "number":"nil",
+            "nationality":"Panama",
+            "birthdate":"1992-09-27",
+            "position":"M"
+          },
+          {
+            "name":"Raphael Spiegel",
+            "number":"nil",
+            "nationality":"Switzerland",
+            "birthdate":"1992-12-19",
+            "position":"G"
+          },
+          {
+            "name":"Raphael Rossi",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-07-25",
+            "position":"D"
+          },
+          {
+            "name":"Róbson Januário",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-02-14",
+            "position":"D"
+          },
+          {
+            "name":"Stéphane Sparagna",
+            "number":"nil",
+            "nationality":"France",
+            "birthdate":"1995-02-17",
+            "position":"D"
+          },
+          {
+            "name":"Yusupha Njie",
+            "number":11,
+            "nationality":"Gambia",
+            "birthdate":"1994-01-03",
+            "position":"A"
+          },
+          {
+            "name":"Diogo Nunes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-10-10",
+            "position":"D"
+          }
+        ]
+      },
+      {
+        "name":"Aves",
+        "acronym":"CDA",
+        "players":[
+          {
+            "name":"Diego Galo",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1984-01-14",
+            "position":"D"
+          },
+          {
+            "name":"Artur Moraes",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1981-01-25",
+            "position":"G"
+          },
+          {
+            "name":"Adriano Facchini",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1983-03-12",
+            "position":"G"
+          },
+          {
+            "name":"Derley",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1987-12-29",
+            "position":"A"
+          },
+          {
+            "name":"Sami",
+            "number":"nil",
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1988-12-18",
+            "position":"M"
+          },
+          {
+            "name":"Nildo Petrolina",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1986-05-01",
+            "position":"M"
+          },
+          {
+            "name":"Vítor Gomes",
+            "number":8,
+            "nationality":"Portugal",
+            "birthdate":"1987-12-25",
+            "position":"M"
+          },
+          {
+            "name":"Nélson Lenho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1984-03-22",
+            "position":"D"
+          },
+          {
+            "name":"Ryan Gauld",
+            "number":23,
+            "nationality":"Scotland",
+            "birthdate":"1995-12-16",
+            "position":"M"
+          },
+          {
+            "name":"Rodrigo Defendi",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1986-06-17",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Braga",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1983-06-17",
+            "position":"M"
+          },
+          {
+            "name":"Pedrinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1985-03-06",
+            "position":"D"
+          },
+          {
+            "name":"Amilton",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-08-12",
+            "position":"M"
+          },
+          {
+            "name":"Hamdou Elhouni",
+            "number":"nil",
+            "nationality":"Libya",
+            "birthdate":"1994-02-12",
+            "position":"M"
+          },
+          {
+            "name":"Rodrigo",
+            "number":2,
+            "nationality":"Brazil",
+            "birthdate":"1992-12-26",
+            "position":"D"
+          },
+          {
+            "name":"Mama Baldé",
+            "number":17,
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1995-11-06",
+            "position":"M"
+          },
+          {
+            "name":"Ponck",
+            "number":"nil",
+            "nationality":"Cape Verde Islands",
+            "birthdate":"1995-01-13",
+            "position":"D"
+          },
+          {
+            "name":"Luis Fariña",
+            "number":"nil",
+            "nationality":"Argentina",
+            "birthdate":"1991-04-20",
+            "position":"M"
+          },
+          {
+            "name":"Paulo Machado",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-03-31",
+            "position":"M"
+          },
+          {
+            "name":"Quim",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1975-11-13",
+            "position":"G"
+          },
+          {
+            "name":"Federico Falcone",
+            "number":"nil",
+            "nationality":"Argentina",
+            "birthdate":"1990-02-21",
+            "position":"A"
+          },
+          {
+            "name":"Alexandre Guedes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-02-11",
+            "position":"A"
+          },
+          {
+            "name":"Cristián Arango",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1995-09-03",
+            "position":"A"
+          },
+          {
+            "name":"Cláudio Falcão",
+            "number":29,
+            "nationality":"Brazil",
+            "birthdate":"1994-07-03",
+            "position":"M"
+          },
+          {
+            "name":"Jorge Fellipe",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1988-10-27",
+            "position":"D"
+          },
+          {
+            "name":"Fernando Tissone",
+            "number":"nil",
+            "nationality":"Argentina",
+            "birthdate":"1986-07-24",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Estoril Praia",
+        "acronym":"EST",
+        "players":[
+          {
+            "name":"André Claro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-03-31",
+            "position":"A"
+          },
+          {
+            "name":"Gonçalo Brandão",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-10-09",
+            "position":"D"
+          },
+          {
+            "name":"Mano",
+            "number":5,
+            "nationality":"Portugal",
+            "birthdate":"1987-04-09",
+            "position":"D"
+          },
+          {
+            "name":"Victor Andrade",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-09-30",
+            "position":"M"
+          },
+          {
+            "name":"Kléber",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-05-02",
+            "position":"A"
+          },
+          {
+            "name":"Pedro Monteiro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-01-30",
+            "position":"D"
+          },
+          {
+            "name":"Pêpê",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-05-20",
+            "position":"M"
+          },
+          {
+            "name":"Thierry Graca",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-01-27",
+            "position":"G"
+          },
+          {
+            "name":"Fernando Fonseca",
+            "number":29,
+            "nationality":"Portugal",
+            "birthdate":"1997-03-14",
+            "position":"D"
+          },
+          {
+            "name":"Abner Felipe",
+            "number":30,
+            "nationality":"Brazil",
+            "birthdate":"1996-05-30",
+            "position":"D"
+          },
+          {
+            "name":"Dankler Pedreira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-01-24",
+            "position":"D"
+          },
+          {
+            "name":"José Moreira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1982-03-20",
+            "position":"G"
+          },
+          {
+            "name":"Joel Ferreira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-01-10",
+            "position":"D"
+          },
+          {
+            "name":"Thiago Cardoso",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-08-04",
+            "position":"D"
+          },
+          {
+            "name":"Eduardo Teixeira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-06-07",
+            "position":"M"
+          },
+          {
+            "name":"Ailton",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-03-16",
+            "position":"D"
+          },
+          {
+            "name":"Matheus Índio",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-02-28",
+            "position":"M"
+          },
+          {
+            "name":"Bruno Gomes",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-07-19",
+            "position":"A"
+          },
+          {
+            "name":"Gonçalo Santos",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-11-15",
+            "position":"M"
+          },
+          {
+            "name":"Rafik Halliche",
+            "number":"nil",
+            "nationality":"Algeria",
+            "birthdate":"1986-09-02",
+            "position":"D"
+          },
+          {
+            "name":"Allano",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-04-24",
+            "position":"M"
+          },
+          {
+            "name":"Matheus Savio",
+            "number":10,
+            "nationality":"Brazil",
+            "birthdate":"1997-04-15",
+            "position":"M"
+          },
+          {
+            "name":"Cafu",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-01-22",
+            "position":"M"
+          },
+          {
+            "name":"Renan Ribeiro",
+            "number":40,
+            "nationality":"Brazil",
+            "birthdate":"1990-03-23",
+            "position":"G"
+          },
+          {
+            "name":"Lucão",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-03-23",
+            "position":"D"
+          },
+          {
+            "name":"Lucas Evangelista",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-02-06",
+            "position":"M"
+          },
+          {
+            "name":"Jorman Aguilar",
+            "number":"nil",
+            "nationality":"Panama",
+            "birthdate":"1994-09-11",
+            "position":"A"
+          },
+          {
+            "name":"Duarte Valente",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1999-11-02",
+            "position":"M"
+          },
+          {
+            "name":"Charalambos Kyriakou",
+            "number":25,
+            "nationality":"Cyprus",
+            "birthdate":"1995-02-09",
+            "position":"M"
+          },
+          {
+            "name":"Ewandro",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-03-15",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Porto",
+        "acronym":"FCP",
+        "players":[
+          {
+            "name":"Maxi Pereira",
+            "number":"nil",
+            "nationality":"Uruguay",
+            "birthdate":"1984-08-06",
+            "position":"D"
+          },
+          {
+            "name":"José Sá",
+            "number":1,
+            "nationality":"Portugal",
+            "birthdate":"1993-01-17",
+            "position":"G"
+          },
+          {
+            "name":"Danilo Pereira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-09-09",
+            "position":"M"
+          },
+          {
+            "name":"Sérgio Oliveira",
+            "number":27,
+            "nationality":"Portugal",
+            "birthdate":"1992-06-02",
+            "position":"M"
+          },
+          {
+            "name":"Fabiano Freitas",
+            "number":40,
+            "nationality":"Brazil",
+            "birthdate":"1988-02-29",
+            "position":"G"
+          },
+          {
+            "name":"Diego Reyes",
+            "number":"nil",
+            "nationality":"Mexico",
+            "birthdate":"1992-09-19",
+            "position":"D"
+          },
+          {
+            "name":"Héctor Herrera",
+            "number":16,
+            "nationality":"Mexico",
+            "birthdate":"1990-04-19",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Pereira",
+            "number":21,
+            "nationality":"Portugal",
+            "birthdate":"1993-10-06",
+            "position":"D"
+          },
+          {
+            "name":"André André",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1989-08-26",
+            "position":"M"
+          },
+          {
+            "name":"Hernâni",
+            "number":8,
+            "nationality":"Portugal",
+            "birthdate":"1991-08-20",
+            "position":"M"
+          },
+          {
+            "name":"Iván Marcano",
+            "number":5,
+            "nationality":"Spain",
+            "birthdate":"1987-06-23",
+            "position":"D"
+          },
+          {
+            "name":"Yacine Brahimi",
+            "number":"nil",
+            "nationality":"Algeria",
+            "birthdate":"1990-08-02",
+            "position":"M"
+          },
+          {
+            "name":"Otávio",
+            "number":25,
+            "nationality":"Brazil",
+            "birthdate":"1995-02-09",
+            "position":"M"
+          },
+          {
+            "name":"Óliver Torres",
+            "number":21,
+            "nationality":"Spain",
+            "birthdate":"1994-11-10",
+            "position":"M"
+          },
+          {
+            "name":"Vincent Aboubakar",
+            "number":"nil",
+            "nationality":"Cameroon",
+            "birthdate":"1992-01-22",
+            "position":"A"
+          },
+          {
+            "name":"Gonçalo Paciência",
+            "number":39,
+            "nationality":"Portugal",
+            "birthdate":"1994-08-01",
+            "position":"A"
+          },
+          {
+            "name":"Francisco Soares",
+            "number":29,
+            "nationality":"Brazil",
+            "birthdate":"1991-01-17",
+            "position":"A"
+          },
+          {
+            "name":"Moussa Marega",
+            "number":11,
+            "nationality":"Mali",
+            "birthdate":"1991-04-14",
+            "position":"A"
+          },
+          {
+            "name":"Iker Casillas",
+            "number":"nil",
+            "nationality":"Spain",
+            "birthdate":"1981-05-20",
+            "position":"G"
+          },
+          {
+            "name":"Tecatito",
+            "number":17,
+            "nationality":"Mexico",
+            "birthdate":"1993-01-06",
+            "position":"M"
+          },
+          {
+            "name":"Diogo Dalot",
+            "number":5,
+            "nationality":"Portugal",
+            "birthdate":"1999-03-18",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Costa",
+            "number":10,
+            "nationality":"Portugal",
+            "birthdate":"1997-04-19",
+            "position":"M"
+          },
+          {
+            "name":"Luís Mata",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-06-06",
+            "position":"M"
+          },
+          {
+            "name":"Alex Telles",
+            "number":27,
+            "nationality":"Brazil",
+            "birthdate":"1992-12-15",
+            "position":"D"
+          },
+          {
+            "name":"Felipe",
+            "number":18,
+            "nationality":"Brazil",
+            "birthdate":"1989-05-16",
+            "position":"D"
+          },
+          {
+            "name":"Vaná Alves",
+            "number":46,
+            "nationality":"Brazil",
+            "birthdate":"1991-04-25",
+            "position":"G"
+          },
+          {
+            "name":"Yordan Osorio",
+            "number":24,
+            "nationality":"Venezuela (Bolivarian Republic of)",
+            "birthdate":"1994-05-10",
+            "position":"D"
+          },
+          {
+            "name":"Paulinho",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-07-10",
+            "position":"M"
+          },
+          {
+            "name":"Chiderah Ezeh",
+            "number":"nil",
+            "nationality":"Nigeria",
+            "birthdate":"1997-02-10",
+            "position":"M"
+          },
+          {
+            "name":"Inácio Santos",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1998-11-23",
+            "position":"D"
+          },
+          {
+            "name":"Majeed Waris",
+            "number":8,
+            "nationality":"Ghana",
+            "birthdate":"1991-09-19",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"Feirense",
+        "acronym":"CDF",
+        "players":[
+          {
+            "name":"Tiago Silva",
+            "number":10,
+            "nationality":"Portugal",
+            "birthdate":"1993-02-06",
+            "position":"M"
+          },
+          {
+            "name":"Babanco",
+            "number":5,
+            "nationality":"Cabo Verde",
+            "birthdate":"1985-07-27",
+            "position":"M"
+          },
+          {
+            "name":"Tiago Gomes",
+            "number":3,
+            "nationality":"Portugal",
+            "birthdate":"1986-07-29",
+            "position":"D"
+          },
+          {
+            "name":"Rafael Crivellaro",
+            "number":50,
+            "nationality":"Brazil",
+            "birthdate":"1989-02-18",
+            "position":"M"
+          },
+          {
+            "name":"Hugo Sêco",
+            "number":7,
+            "nationality":"Portugal",
+            "birthdate":"1988-06-17",
+            "position":"M"
+          },
+          {
+            "name":"Zé Manuel",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-10-23",
+            "position":"M"
+          },
+          {
+            "name":"Alex Kakuba",
+            "number":"nil",
+            "nationality":"Uganda",
+            "birthdate":"1991-06-12",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Nascimento",
+            "number":14,
+            "nationality":"Brazil",
+            "birthdate":"1991-05-30",
+            "position":"D"
+          },
+          {
+            "name":"Luís Aurélio",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-08-17",
+            "position":"M"
+          },
+          {
+            "name":"Edson Farias",
+            "number":12,
+            "nationality":"Brazil",
+            "birthdate":"1992-12-01",
+            "position":"M"
+          },
+          {
+            "name":"Luís Machado",
+            "number":7,
+            "nationality":"Portugal",
+            "birthdate":"1992-11-04",
+            "position":"M"
+          },
+          {
+            "name":"João Silva",
+            "number":19,
+            "nationality":"Portugal",
+            "birthdate":"1990-05-21",
+            "position":"A"
+          },
+          {
+            "name":"João Graça",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-06-18",
+            "position":"M"
+          },
+          {
+            "name":"Dele Alampasu",
+            "number":1,
+            "nationality":"Nigeria",
+            "birthdate":"1996-12-24",
+            "position":"G"
+          },
+          {
+            "name":"Luís Rocha",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-08-13",
+            "position":"D"
+          },
+          {
+            "name":"Sérgio Barge",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1984-01-04",
+            "position":"D"
+          },
+          {
+            "name":"Cris",
+            "number":17,
+            "nationality":"Portugal",
+            "birthdate":"1984-01-17",
+            "position":"M"
+          },
+          {
+            "name":"Flávio Ramos",
+            "number":32,
+            "nationality":"Brazil",
+            "birthdate":"1994-12-05",
+            "position":"D"
+          },
+          {
+            "name":"João Tavares",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1998-12-12",
+            "position":"M"
+          },
+          {
+            "name":"Tasos Karamanos",
+            "number":"nil",
+            "nationality":"Greece",
+            "birthdate":"1990-09-21",
+            "position":"A"
+          },
+          {
+            "name":"Jean Sony",
+            "number":"nil",
+            "nationality":"Haiti",
+            "birthdate":"1986-01-23",
+            "position":"D"
+          },
+          {
+            "name":"José Adolfo Valencia",
+            "number":20,
+            "nationality":"Colombia",
+            "birthdate":"1991-12-18",
+            "position":"A"
+          },
+          {
+            "name":"Luís Henrique",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1998-03-17",
+            "position":"A"
+          },
+          {
+            "name":"Antonio Briseño",
+            "number":4,
+            "nationality":"Mexico",
+            "birthdate":"1994-05-02",
+            "position":"D"
+          },
+          {
+            "name":"Kiki",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-12-10",
+            "position":"D"
+          },
+          {
+            "name":"Caio Secco",
+            "number":22,
+            "nationality":"Brazil",
+            "birthdate":"1990-12-22",
+            "position":"G"
+          },
+          {
+            "name":"Michal Miskiewicz",
+            "number":"nil",
+            "nationality":"Poland",
+            "birthdate":"1989-01-20",
+            "position":"G"
+          },
+          {
+            "name":"Diga",
+            "number":2,
+            "nationality":"Portugal",
+            "birthdate":"1998-03-30",
+            "position":"D"
+          }
+        ]
+      },
+      {
+        "name":"Chaves",
+        "acronym":"GDC",
+        "players":[
+          {
+            "name":"Ricardo Nunes",
+            "number":13,
+            "nationality":"Portugal",
+            "birthdate":"1982-06-07",
+            "position":"G"
+          },
+          {
+            "name":"Djavan",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1987-12-31",
+            "position":"D"
+          },
+          {
+            "name":"António Filipe",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1985-04-14",
+            "position":"G"
+          },
+          {
+            "name":"Pedro Queirós",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1984-08-08",
+            "position":"D"
+          },
+          {
+            "name":"Pedro Tiba",
+            "number":25,
+            "nationality":"Portugal",
+            "birthdate":"1988-08-31",
+            "position":"M"
+          },
+          {
+            "name":"Paulinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-07-13",
+            "position":"D"
+          },
+          {
+            "name":"Filipe Melo",
+            "number":6,
+            "nationality":"Portugal",
+            "birthdate":"1989-03-11",
+            "position":"M"
+          },
+          {
+            "name":"Renan Bressan",
+            "number":"nil",
+            "nationality":"Belarus",
+            "birthdate":"1988-11-03",
+            "position":"M"
+          },
+          {
+            "name":"Matheus Pereira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-05-05",
+            "position":"M"
+          },
+          {
+            "name":"João Patrão",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-01-22",
+            "position":"M"
+          },
+          {
+            "name":"Domingos Duarte",
+            "number":22,
+            "nationality":"Portugal",
+            "birthdate":"1995-03-10",
+            "position":"D"
+          },
+          {
+            "name":"Jorginho",
+            "number":"nil",
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1995-09-21",
+            "position":"M"
+          },
+          {
+            "name":"Emanuel Novo",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-08-26",
+            "position":"G"
+          },
+          {
+            "name":"Perdigão",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-07-17",
+            "position":"M"
+          },
+          {
+            "name":"Platiny",
+            "number":99,
+            "nationality":"Brazil",
+            "birthdate":"1990-02-10",
+            "position":"A"
+          },
+          {
+            "name":"William Oliveira",
+            "number":11,
+            "nationality":"Brazil",
+            "birthdate":"1991-07-12",
+            "position":"A"
+          },
+          {
+            "name":"Nuno André Coelho",
+            "number":4,
+            "nationality":"Portugal",
+            "birthdate":"1986-07-01",
+            "position":"D"
+          },
+          {
+            "name":"Davidson",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-03-05",
+            "position":"M"
+          },
+          {
+            "name":"Rafael Furlan",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-09-20",
+            "position":"D"
+          },
+          {
+            "name":"Tiago Galvão",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-08-24",
+            "position":"M"
+          },
+          {
+            "name":"Jefferson Santos",
+            "number":6,
+            "nationality":"Brazil",
+            "birthdate":"1993-04-14",
+            "position":"M"
+          },
+          {
+            "name":"Nikola Maraš",
+            "number":19,
+            "nationality":"Serbia",
+            "birthdate":"1995-12-19",
+            "position":"D"
+          },
+          {
+            "name":"Stephen Eustáquio",
+            "number":46,
+            "nationality":"Canada",
+            "birthdate":"1996-12-21",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Marítimo",
+        "acronym":"CSM",
+        "players":[
+          {
+            "name":"Rúben Ferreira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-02-17",
+            "position":"D"
+          },
+          {
+            "name":"Zainadine Júnior",
+            "number":5,
+            "nationality":"Mozambique",
+            "birthdate":"1988-06-24",
+            "position":"D"
+          },
+          {
+            "name":"Edgar Costa",
+            "number":12,
+            "nationality":"Portugal",
+            "birthdate":"1987-04-14",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Valente",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-03-04",
+            "position":"M"
+          },
+          {
+            "name":"Éber Bessa",
+            "number":20,
+            "nationality":"Brazil",
+            "birthdate":"1992-03-21",
+            "position":"M"
+          },
+          {
+            "name":"João Gamboa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-08-31",
+            "position":"M"
+          },
+          {
+            "name":"Rodrigo Pinho",
+            "number":9,
+            "nationality":"Brazil",
+            "birthdate":"1991-05-30",
+            "position":"A"
+          },
+          {
+            "name":"Diney",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-01-17",
+            "position":"D"
+          },
+          {
+            "name":"Gevorg Ghazaryan",
+            "number":9,
+            "nationality":"Armenia",
+            "birthdate":"1988-05-04",
+            "position":"M"
+          },
+          {
+            "name":"Fábio Pacheco",
+            "number":6,
+            "nationality":"Portugal",
+            "birthdate":"1988-05-26",
+            "position":"M"
+          },
+          {
+            "name":"Piqueti",
+            "number":"nil",
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1993-02-12",
+            "position":"M"
+          },
+          {
+            "name":"Edgar Mendonça",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-08-27",
+            "position":"G"
+          },
+          {
+            "name":"Nanu",
+            "number":31,
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1994-05-17",
+            "position":"D"
+          },
+          {
+            "name":"Fábio China",
+            "number":45,
+            "nationality":"Portugal",
+            "birthdate":"1992-07-07",
+            "position":"D"
+          },
+          {
+            "name":"Filipe Oliveira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-04-21",
+            "position":"M"
+          },
+          {
+            "name":"Cristiano Gomes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-08-05",
+            "position":"D"
+          },
+          {
+            "name":"Charles Marcelo",
+            "number":94,
+            "nationality":"Brazil",
+            "birthdate":"1994-02-04",
+            "position":"G"
+          },
+          {
+            "name":"Jean Cléber",
+            "number":16,
+            "nationality":"Brazil",
+            "birthdate":"1990-04-29",
+            "position":"M"
+          },
+          {
+            "name":"Luís Martins",
+            "number":15,
+            "nationality":"Portugal",
+            "birthdate":"1992-10-06",
+            "position":"D"
+          },
+          {
+            "name":"Erdem Sen",
+            "number":16,
+            "nationality":"Turkey",
+            "birthdate":"1989-01-05",
+            "position":"M"
+          },
+          {
+            "name":"Amir Abedzadeh",
+            "number":1,
+            "nationality":"Iran (Islamic Republic of)",
+            "birthdate":"1993-04-26",
+            "position":"G"
+          },
+          {
+            "name":"Rafael Broetto",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-08-18",
+            "position":"G"
+          },
+          {
+            "name":"Joel Tagueu",
+            "number":95,
+            "nationality":"Cameroon",
+            "birthdate":"1993-12-06",
+            "position":"A"
+          },
+          {
+            "name":"Fabricio Baiano",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-06-13",
+            "position":"M"
+          },
+          {
+            "name":"Bebeto Machado",
+            "number":2,
+            "nationality":"Brazil",
+            "birthdate":"1990-01-01",
+            "position":"D"
+          },
+          {
+            "name":"Pablo Santos",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-03-18",
+            "position":"D"
+          },
+          {
+            "name":"Ibson Melo",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-10-08",
+            "position":"M"
+          },
+          {
+            "name":"Everton Nascimento",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-07-03",
+            "position":"A"
+          },
+          {
+            "name":"Dráusio",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-08-21",
+            "position":"D"
+          },
+          {
+            "name":"Jorge Correa",
+            "number":8,
+            "nationality":"Argentina",
+            "birthdate":"1993-05-04",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Moreirense",
+        "acronym":"MFC",
+        "players":[
+          {
+            "name":"Arsénio",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-08-30",
+            "position":"M"
+          },
+          {
+            "name":"Iago Santos",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-05-22",
+            "position":"D"
+          },
+          {
+            "name":"Tozé",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1993-01-14",
+            "position":"M"
+          },
+          {
+            "name":"Boubacar Fofana",
+            "number":"nil",
+            "nationality":"Guinea",
+            "birthdate":"1989-11-06",
+            "position":"M"
+          },
+          {
+            "name":"André Micael",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-02-04",
+            "position":"D"
+          },
+          {
+            "name":"Pierre Sagna",
+            "number":95,
+            "nationality":"Senegal",
+            "birthdate":"1990-08-21",
+            "position":"D"
+          },
+          {
+            "name":"Alan Schons",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-05-24",
+            "position":"M"
+          },
+          {
+            "name":"Rúben Lima",
+            "number":5,
+            "nationality":"Portugal",
+            "birthdate":"1989-10-03",
+            "position":"D"
+          },
+          {
+            "name":"Alfa Semedo",
+            "number":"nil",
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1997-08-30",
+            "position":"M"
+          },
+          {
+            "name":"Ousmane Dramé",
+            "number":"nil",
+            "nationality":"France",
+            "birthdate":"1992-08-25",
+            "position":"M"
+          },
+          {
+            "name":"Hichem Belkaroui",
+            "number":"nil",
+            "nationality":"Algeria",
+            "birthdate":"1990-08-24",
+            "position":"D"
+          },
+          {
+            "name":"Ângelo Neto",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-02-09",
+            "position":"M"
+          },
+          {
+            "name":"Zizo",
+            "number":"nil",
+            "nationality":"Egypt",
+            "birthdate":"1995-01-10",
+            "position":"M"
+          },
+          {
+            "name":"Felipe Garcia",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1988-01-10",
+            "position":"G"
+          },
+          {
+            "name":"Matheus Reis",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-02-18",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Ramires",
+            "number":6,
+            "nationality":"Brazil",
+            "birthdate":"1994-03-18",
+            "position":"M"
+          },
+          {
+            "name":"Jhonatan Luiz",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-05-08",
+            "position":"G"
+          },
+          {
+            "name":"Mohamed Abarhoun",
+            "number":"nil",
+            "nationality":"Morocco",
+            "birthdate":"1989-05-03",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Silva",
+            "number":37,
+            "nationality":"Brazil",
+            "birthdate":"1992-09-14",
+            "position":"D"
+          },
+          {
+            "name":"Koffi Kouao",
+            "number":"nil",
+            "nationality":"Côte d'Ivoire",
+            "birthdate":"1998-05-20",
+            "position":"D"
+          },
+          {
+            "name":"Rafael Costa",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-01-19",
+            "position":"M"
+          },
+          {
+            "name":"Ronaldo Peña",
+            "number":"nil",
+            "nationality":"Venezuela (Bolivarian Republic of)",
+            "birthdate":"1997-03-10",
+            "position":"A"
+          },
+          {
+            "name":"Bilel Aouacheria",
+            "number":26,
+            "nationality":"France",
+            "birthdate":"1994-04-02",
+            "position":"M"
+          },
+          {
+            "name":"Edno",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1983-05-31",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"Paços",
+        "acronym":"FCPF",
+        "players":[
+          {
+            "name":"Filipe Ferreira",
+            "number":20,
+            "nationality":"Portugal",
+            "birthdate":"1990-09-27",
+            "position":"D"
+          },
+          {
+            "name":"Rúben Micael",
+            "number":14,
+            "nationality":"Portugal",
+            "birthdate":"1986-08-19",
+            "position":"M"
+          },
+          {
+            "name":"Luiz Phellype",
+            "number":29,
+            "nationality":"Brazil",
+            "birthdate":"1993-09-27",
+            "position":"A"
+          },
+          {
+            "name":"Ricardo",
+            "number":"nil",
+            "nationality":"Cabo Verde",
+            "birthdate":"1980-08-19",
+            "position":"D"
+          },
+          {
+            "name":"Rui Correia",
+            "number":33,
+            "nationality":"Portugal",
+            "birthdate":"1990-08-23",
+            "position":"D"
+          },
+          {
+            "name":"Rabiola",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-07-25",
+            "position":"A"
+          },
+          {
+            "name":"Rafael Defendi",
+            "number":12,
+            "nationality":"Brazil",
+            "birthdate":"1983-12-22",
+            "position":"G"
+          },
+          {
+            "name":"Vasco Rocha",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-01-29",
+            "position":"M"
+          },
+          {
+            "name":"Bruno Moreira",
+            "number":9,
+            "nationality":"Portugal",
+            "birthdate":"1987-09-06",
+            "position":"A"
+          },
+          {
+            "name":"Héctor Quiñónes",
+            "number":5,
+            "nationality":"Colombia",
+            "birthdate":"1992-03-17",
+            "position":"D"
+          },
+          {
+            "name":"António Xavier",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-07-06",
+            "position":"M"
+          },
+          {
+            "name":"Gian Martins",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-04-02",
+            "position":"M"
+          },
+          {
+            "name":"João Góis",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-05-05",
+            "position":"D"
+          },
+          {
+            "name":"Andrezinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-08-16",
+            "position":"M"
+          },
+          {
+            "name":"Bruno Santos",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1993-02-07",
+            "position":"D"
+          },
+          {
+            "name":"Marco Baixinho",
+            "number":2,
+            "nationality":"Portugal",
+            "birthdate":"1989-07-11",
+            "position":"D"
+          },
+          {
+            "name":"Miguel Vieira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-10-08",
+            "position":"D"
+          },
+          {
+            "name":"Francisco Afonso",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-04-24",
+            "position":"D"
+          },
+          {
+            "name":"Mário Felgueiras",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-12-12",
+            "position":"G"
+          },
+          {
+            "name":"Rafael Assis",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-10-31",
+            "position":"M"
+          },
+          {
+            "name":"João Pinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-04-30",
+            "position":"G"
+          },
+          {
+            "name":"Pedro Moreira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-12-20",
+            "position":"M"
+          },
+          {
+            "name":"André Leão",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1985-05-20",
+            "position":"M"
+          },
+          {
+            "name":"Hêndrio",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-05-16",
+            "position":"M"
+          },
+          {
+            "name":"Awer Mabil",
+            "number":11,
+            "nationality":"Australia",
+            "birthdate":"1995-09-15",
+            "position":"M"
+          },
+          {
+            "name":"Bruno Leite",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-07-17",
+            "position":"M"
+          }
+        ]
+      },
+      {
+        "name":"Portimonense",
+        "acronym":"PSC",
+        "players":[
+          {
+            "name":"Rúben Fernandes",
+            "number":26,
+            "nationality":"Portugal",
+            "birthdate":"1986-05-06",
+            "position":"D"
+          },
+          {
+            "name":"Emmanuel Hackman",
+            "number":6,
+            "nationality":"Ghana",
+            "birthdate":"1995-05-14",
+            "position":"D"
+          },
+          {
+            "name":"Rafa Soares",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1995-05-09",
+            "position":"D"
+          },
+          {
+            "name":"Fede Varela",
+            "number":"nil",
+            "nationality":"Argentina",
+            "birthdate":"1996-05-07",
+            "position":"M"
+          },
+          {
+            "name":"Wenderson Galeno",
+            "number":90,
+            "nationality":"Brazil",
+            "birthdate":"1997-10-22",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Ferreira",
+            "number":1,
+            "nationality":"Portugal",
+            "birthdate":"1989-12-03",
+            "position":"G"
+          },
+          {
+            "name":"Leonardo Navacchio",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-12-28",
+            "position":"G"
+          },
+          {
+            "name":"Carlos Henriques",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1993-07-07",
+            "position":"G"
+          },
+          {
+            "name":"Ricardo Pessoa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1982-02-05",
+            "position":"D"
+          },
+          {
+            "name":"Jadson Morais",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-11-05",
+            "position":"D"
+          },
+          {
+            "name":"Felipe Macedo",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-03-27",
+            "position":"D"
+          },
+          {
+            "name":"Lucas Possignolo",
+            "number":3,
+            "nationality":"Brazil",
+            "birthdate":"1994-05-11",
+            "position":"D"
+          },
+          {
+            "name":"Fabrício",
+            "number":9,
+            "nationality":"Brazil",
+            "birthdate":"1990-03-28",
+            "position":"A"
+          },
+          {
+            "name":"Marcel Pereira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-10-16",
+            "position":"M"
+          },
+          {
+            "name":"Ewerton",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-12-01",
+            "position":"M"
+          },
+          {
+            "name":"Pedro Sá",
+            "number":21,
+            "nationality":"Portugal",
+            "birthdate":"1993-12-01",
+            "position":"M"
+          },
+          {
+            "name":"Wilson Manafá",
+            "number":18,
+            "nationality":"Portugal",
+            "birthdate":"1994-07-23",
+            "position":"D"
+          },
+          {
+            "name":"Rui Costa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-02-20",
+            "position":"A"
+          },
+          {
+            "name":"Bruno Tabata",
+            "number":7,
+            "nationality":"Brazil",
+            "birthdate":"1997-03-30",
+            "position":"M"
+          },
+          {
+            "name":"Jorge Pires",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1981-04-01",
+            "position":"A"
+          },
+          {
+            "name":"Wellington Carvalho",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-11-21",
+            "position":"M"
+          },
+          {
+            "name":"Dener Clemente",
+            "number":7,
+            "nationality":"Brazil",
+            "birthdate":"1992-03-13",
+            "position":"M"
+          },
+          {
+            "name":"Theo Ryuki",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-07-31",
+            "position":"M"
+          },
+          {
+            "name":"Jean Felipe",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-03-18",
+            "position":"D"
+          },
+          {
+            "name":"Gustavo Hebling",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-04-05",
+            "position":"M"
+          },
+          {
+            "name":"Shoya Nakajima",
+            "number":"nil",
+            "nationality":"Japan",
+            "birthdate":"1994-08-23",
+            "position":"M"
+          },
+          {
+            "name":"André Clóvis",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1997-11-21",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"Rio Ave",
+        "acronym":"RAFC",
+        "players":[
+          {
+            "name":"Cássio",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1980-08-12",
+            "position":"G"
+          },
+          {
+            "name":"Pelé",
+            "number":18,
+            "nationality":"Portugal",
+            "birthdate":"1991-09-29",
+            "position":"M"
+          },
+          {
+            "name":"Lionn",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-01-29",
+            "position":"D"
+          },
+          {
+            "name":"Marcelo",
+            "number":44,
+            "nationality":"Brazil",
+            "birthdate":"1989-07-27",
+            "position":"D"
+          },
+          {
+            "name":"Diego Lopes",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-05-03",
+            "position":"M"
+          },
+          {
+            "name":"Tarantini",
+            "number":8,
+            "nationality":"Portugal",
+            "birthdate":"1983-10-07",
+            "position":"M"
+          },
+          {
+            "name":"Hélder Guedes",
+            "number":7,
+            "nationality":"Portugal",
+            "birthdate":"1987-05-07",
+            "position":"A"
+          },
+          {
+            "name":"Nélson Monte",
+            "number":4,
+            "nationality":"Portugal",
+            "birthdate":"1995-07-30",
+            "position":"D"
+          },
+          {
+            "name":"Pedro Moreira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-03-15",
+            "position":"M"
+          },
+          {
+            "name":"Carlos Alves",
+            "number":98,
+            "nationality":"Portugal",
+            "birthdate":"1998-02-18",
+            "position":"G"
+          },
+          {
+            "name":"Francisco Geraldes",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1995-04-18",
+            "position":"M"
+          },
+          {
+            "name":"Nuno Santos",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1995-02-13",
+            "position":"M"
+          },
+          {
+            "name":"Rui Vieira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-11-13",
+            "position":"G"
+          },
+          {
+            "name":"Silvério Silva",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-12-26",
+            "position":"D"
+          },
+          {
+            "name":"João Novais",
+            "number":7,
+            "nationality":"Portugal",
+            "birthdate":"1993-07-10",
+            "position":"M"
+          },
+          {
+            "name":"Yuri Ribeiro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-01-24",
+            "position":"D"
+          },
+          {
+            "name":"Tiago André",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-01-18",
+            "position":"D"
+          },
+          {
+            "name":"Georgi Makaridze",
+            "number":90,
+            "nationality":"Georgia",
+            "birthdate":"1990-03-31",
+            "position":"G"
+          },
+          {
+            "name":"Eliseu Nadjack",
+            "number":"nil",
+            "nationality":"Guinea-Bissau",
+            "birthdate":"1994-02-06",
+            "position":"D"
+          },
+          {
+            "name":"Leandrinho",
+            "number":25,
+            "nationality":"Brazil",
+            "birthdate":"1993-09-25",
+            "position":"M"
+          },
+          {
+            "name":"Bruno Teles",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1986-05-01",
+            "position":"D"
+          },
+          {
+            "name":"Marcão",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-06-05",
+            "position":"D"
+          },
+          {
+            "name":"Gelson Dala",
+            "number":7,
+            "nationality":"Angola",
+            "birthdate":"1996-07-13",
+            "position":"A"
+          },
+          {
+            "name":"Oscar Barreto",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1993-04-28",
+            "position":"M"
+          },
+          {
+            "name":"Gabriel Souza",
+            "number":70,
+            "nationality":"Brazil",
+            "birthdate":"1996-03-29",
+            "position":"M"
+          },
+          {
+            "name":"André Silva",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1997-06-03",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"Braga",
+        "acronym":"SCB",
+        "players":[
+          {
+            "name":"Marcelo Goiano",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1987-10-13",
+            "position":"D"
+          },
+          {
+            "name":"Mauro",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1990-10-31",
+            "position":"M"
+          },
+          {
+            "name":"Paulinho",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-11-09",
+            "position":"A"
+          },
+          {
+            "name":"Fransérgio",
+            "number":27,
+            "nationality":"Brazil",
+            "birthdate":"1990-10-18",
+            "position":"M"
+          },
+          {
+            "name":"Nuno Sequeira",
+            "number":5,
+            "nationality":"Portugal",
+            "birthdate":"1990-08-19",
+            "position":"D"
+          },
+          {
+            "name":"Ricardo Ferreira",
+            "number":24,
+            "nationality":"Portugal",
+            "birthdate":"1992-11-25",
+            "position":"D"
+          },
+          {
+            "name":"Ahmed Hassan",
+            "number":9,
+            "nationality":"Egypt",
+            "birthdate":"1993-03-05",
+            "position":"A"
+          },
+          {
+            "name":"Jefferson",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1988-07-05",
+            "position":"D"
+          },
+          {
+            "name":"Matheus Magalhães",
+            "number":1,
+            "nationality":"Brazil",
+            "birthdate":"1992-07-19",
+            "position":"G"
+          },
+          {
+            "name":"Danilo Barbosa",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-02-28",
+            "position":"M"
+          },
+          {
+            "name":"Fábio Martins",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1993-07-24",
+            "position":"M"
+          },
+          {
+            "name":"Dyego Sousa",
+            "number":99,
+            "nationality":"Portugal",
+            "birthdate":"1989-09-14",
+            "position":"A"
+          },
+          {
+            "name":"José Marafona",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1987-05-08",
+            "position":"G"
+          },
+          {
+            "name":"Ricardo Esgaio",
+            "number":47,
+            "nationality":"Portugal",
+            "birthdate":"1993-05-16",
+            "position":"D"
+          },
+          {
+            "name":"André Horta",
+            "number":15,
+            "nationality":"Portugal",
+            "birthdate":"1996-11-07",
+            "position":"M"
+          },
+          {
+            "name":"Raul Silva",
+            "number":34,
+            "nationality":"Brazil",
+            "birthdate":"1989-11-04",
+            "position":"D"
+          },
+          {
+            "name":"Tiago Sá",
+            "number":12,
+            "nationality":"Portugal",
+            "birthdate":"1995-01-11",
+            "position":"G"
+          },
+          {
+            "name":"Wilson Eduardo",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-07-08",
+            "position":"A"
+          },
+          {
+            "name":"Nikola Vukcevic",
+            "number":17,
+            "nationality":"Montenegro",
+            "birthdate":"1991-12-13",
+            "position":"M"
+          },
+          {
+            "name":"Lucas Cunha",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1997-01-23",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Xadas",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-12-02",
+            "position":"M"
+          },
+          {
+            "name":"Mamadou Loum",
+            "number":6,
+            "nationality":"Senegal",
+            "birthdate":"1996-12-30",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Horta",
+            "number":21,
+            "nationality":"Portugal",
+            "birthdate":"1994-09-15",
+            "position":"M"
+          },
+          {
+            "name":"Lazar Rosić",
+            "number":3,
+            "nationality":"Serbia",
+            "birthdate":"1993-06-29",
+            "position":"D"
+          },
+          {
+            "name":"João Carlos Teixeira",
+            "number":20,
+            "nationality":"Portugal",
+            "birthdate":"1993-01-18",
+            "position":"M"
+          },
+          {
+            "name":"Dinis Almeida",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-06-28",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Viana",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1995-02-05",
+            "position":"D"
+          },
+          {
+            "name":"Diogo Figueiras",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-01-07",
+            "position":"D"
+          },
+          {
+            "name":"Erick Serafim",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1997-12-10",
+            "position":"M"
+          },
+          {
+            "name":"Robert Murić",
+            "number":7,
+            "nationality":"Croatia",
+            "birthdate":"1996-03-12",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Ryller",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-02-27",
+            "position":"M"
+          },
+          {
+            "name":"Andrej Lukic",
+            "number":"nil",
+            "nationality":"Croatia",
+            "birthdate":"1994-04-02",
+            "position":"D"
+          }
+        ]
+      },
+      {
+        "name":"Sporting",
+        "acronym":"SCP",
+        "players":[
+          {
+            "name":"André Pinto",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-10-05",
+            "position":"D"
+          },
+          {
+            "name":"Rodrigo Battaglia",
+            "number":"nil",
+            "nationality":"Argentina",
+            "birthdate":"1991-07-12",
+            "position":"M"
+          },
+          {
+            "name":"Romain Salin",
+            "number":1,
+            "nationality":"France",
+            "birthdate":"1984-07-29",
+            "position":"G"
+          },
+          {
+            "name":"Rubén Ribeiro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1987-08-01",
+            "position":"M"
+          },
+          {
+            "name":"Rui Patrício",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1988-02-15",
+            "position":"G"
+          },
+          {
+            "name":"William Carvalho",
+            "number":14,
+            "nationality":"Portugal",
+            "birthdate":"1992-04-07",
+            "position":"M"
+          },
+          {
+            "name":"Fredy Montero",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1987-07-26",
+            "position":"A"
+          },
+          {
+            "name":"Gelson Martins",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1995-05-11",
+            "position":"M"
+          },
+          {
+            "name":"João Palhinha",
+            "number":6,
+            "nationality":"Portugal",
+            "birthdate":"1995-07-09",
+            "position":"M"
+          },
+          {
+            "name":"Bryan Ruiz",
+            "number":"nil",
+            "nationality":"Costa Rica",
+            "birthdate":"1985-08-18",
+            "position":"M"
+          },
+          {
+            "name":"Bruno César",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1988-11-03",
+            "position":"M"
+          },
+          {
+            "name":"Daniel Podence",
+            "number":10,
+            "nationality":"Portugal",
+            "birthdate":"1995-10-21",
+            "position":"M"
+          },
+          {
+            "name":"Rafael Barbosa",
+            "number":70,
+            "nationality":"Portugal",
+            "birthdate":"1996-03-29",
+            "position":"M"
+          },
+          {
+            "name":"Ronaldo Tavares",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-07-22",
+            "position":"A"
+          },
+          {
+            "name":"Sebastián Coates",
+            "number":4,
+            "nationality":"Uruguay",
+            "birthdate":"1990-10-07",
+            "position":"D"
+          },
+          {
+            "name":"Jérémy Mathieu",
+            "number":"nil",
+            "nationality":"France",
+            "birthdate":"1983-10-29",
+            "position":"D"
+          },
+          {
+            "name":"Bas Dost",
+            "number":"nil",
+            "nationality":"Netherlands",
+            "birthdate":"1989-05-31",
+            "position":"A"
+          },
+          {
+            "name":"Radosav Petrović",
+            "number":"nil",
+            "nationality":"Serbia",
+            "birthdate":"1989-03-08",
+            "position":"M"
+          },
+          {
+            "name":"Cristiano Piccini",
+            "number":"nil",
+            "nationality":"Italy",
+            "birthdate":"1992-09-26",
+            "position":"D"
+          },
+          {
+            "name":"Fábio Coentrão",
+            "number":17,
+            "nationality":"Portugal",
+            "birthdate":"1988-11-03",
+            "position":"D"
+          },
+          {
+            "name":"Douglas Teixeira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1988-01-12",
+            "position":"D"
+          },
+          {
+            "name":"Seydou Doumbia",
+            "number":22,
+            "nationality":"Côte d'Ivoire",
+            "birthdate":"1987-12-31",
+            "position":"A"
+          },
+          {
+            "name":"Nemanja Gudelj",
+            "number":6,
+            "nationality":"Serbia",
+            "birthdate":"1991-11-16",
+            "position":"M"
+          },
+          {
+            "name":"Wendel",
+            "number":20,
+            "nationality":"Brazil",
+            "birthdate":"1997-08-28",
+            "position":"M"
+          },
+          {
+            "name":"Agbenyenu Lumor",
+            "number":"nil",
+            "nationality":"Ghana",
+            "birthdate":"1996-08-10",
+            "position":"D"
+          },
+          {
+            "name":"Marcos Acuña",
+            "number":19,
+            "nationality":"Argentina",
+            "birthdate":"1991-10-28",
+            "position":"D"
+          },
+          {
+            "name":"Bruno Fernandes",
+            "number":18,
+            "nationality":"Portugal",
+            "birthdate":"1994-09-08",
+            "position":"M"
+          },
+          {
+            "name":"Stefan Ristovski",
+            "number":"nil",
+            "nationality":"Macedonia (the former Yugoslav Republic of)",
+            "birthdate":"1992-02-12",
+            "position":"D"
+          },
+          {
+            "name":"Josip Mišić",
+            "number":"nil",
+            "nationality":"Croatia",
+            "birthdate":"1994-06-28",
+            "position":"M"
+          },
+          {
+            "name":"Rafael Leão",
+            "number":17,
+            "nationality":"Portugal",
+            "birthdate":"1999-06-10",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"Tondela",
+        "acronym":"CDT",
+        "players":[
+          {
+            "name":"Tomané",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-10-23",
+            "position":"A"
+          },
+          {
+            "name":"Pedro Nuno",
+            "number":27,
+            "nationality":"Portugal",
+            "birthdate":"1995-01-13",
+            "position":"M"
+          },
+          {
+            "name":"Cláudio Ramos",
+            "number":14,
+            "nationality":"Portugal",
+            "birthdate":"1991-11-16",
+            "position":"G"
+          },
+          {
+            "name":"Bruno Monteiro",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1984-10-05",
+            "position":"M"
+          },
+          {
+            "name":"Hélder Tavares",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1989-12-26",
+            "position":"M"
+          },
+          {
+            "name":"Tyler Boyd",
+            "number":"nil",
+            "nationality":"United States of America",
+            "birthdate":"1994-12-30",
+            "position":"M"
+          },
+          {
+            "name":"Joãozinho",
+            "number":23,
+            "nationality":"Portugal",
+            "birthdate":"1989-07-02",
+            "position":"D"
+          },
+          {
+            "name":"Joca",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1996-01-30",
+            "position":"M"
+          },
+          {
+            "name":"Jorge Fernandes",
+            "number":44,
+            "nationality":"Portugal",
+            "birthdate":"1997-02-04",
+            "position":"D"
+          },
+          {
+            "name":"Pité",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-08-22",
+            "position":"M"
+          },
+          {
+            "name":"Miguel Cardoso",
+            "number":11,
+            "nationality":"Portugal",
+            "birthdate":"1994-06-19",
+            "position":"M"
+          },
+          {
+            "name":"Rafael Amorim",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1987-07-30",
+            "position":"D"
+          },
+          {
+            "name":"Ícaro Silva",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-04-16",
+            "position":"D"
+          },
+          {
+            "name":"Ricardo Janota",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1987-03-10",
+            "position":"G"
+          },
+          {
+            "name":"David Bruno",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-02-14",
+            "position":"D"
+          },
+          {
+            "name":"Claude Goncalves",
+            "number":8,
+            "nationality":"Portugal",
+            "birthdate":"1994-04-09",
+            "position":"M"
+          },
+          {
+            "name":"Murilo Freitas",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-05-12",
+            "position":"M"
+          },
+          {
+            "name":"Sulley Muniru",
+            "number":"nil",
+            "nationality":"Ghana",
+            "birthdate":"1992-10-25",
+            "position":"M"
+          },
+          {
+            "name":"Heliardo",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-12-14",
+            "position":"A"
+          },
+          {
+            "name":"Ricardo Costa",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1981-05-16",
+            "position":"D"
+          },
+          {
+            "name":"Nick Ansell",
+            "number":"nil",
+            "nationality":"Australia",
+            "birthdate":"1994-02-02",
+            "position":"D"
+          },
+          {
+            "name":"Junior Pius",
+            "number":"nil",
+            "nationality":"Nigeria",
+            "birthdate":"1995-12-20",
+            "position":"D"
+          },
+          {
+            "name":"Fahd Moufi",
+            "number":18,
+            "nationality":"Morocco",
+            "birthdate":"1996-05-05",
+            "position":"D"
+          },
+          {
+            "name":"Nego Tembeng",
+            "number":"nil",
+            "nationality":"Cameroon",
+            "birthdate":"1991-09-13",
+            "position":"M"
+          },
+          {
+            "name":"Ricardo Moura",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-12-14",
+            "position":"G"
+          },
+          {
+            "name":"Juan Delgado",
+            "number":"nil",
+            "nationality":"Chile",
+            "birthdate":"1993-05-03",
+            "position":"M"
+          },
+          {
+            "name":"Harramiz Soares",
+            "number":"nil",
+            "nationality":"Sao Tome and Principe",
+            "birthdate":"1990-08-03",
+            "position":"A"
+          },
+          {
+            "name":"Tomás",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1999-12-29",
+            "position":"M"
+          },
+          {
+            "name":"Simão Pipo",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1999-06-21",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"V. Guimarães",
+        "acronym":"VSC",
+        "players":[
+          {
+            "name":"Fábio Sturgeon",
+            "number":71,
+            "nationality":"Portugal",
+            "birthdate":"1994-04-02",
+            "position":"M"
+          },
+          {
+            "name":"João Aurélio",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1988-08-17",
+            "position":"D"
+          },
+          {
+            "name":"Paolo Hurtado",
+            "number":"nil",
+            "nationality":"Peru",
+            "birthdate":"1990-07-27",
+            "position":"M"
+          },
+          {
+            "name":"Alhassan Wakaso",
+            "number":25,
+            "nationality":"Ghana",
+            "birthdate":"1992-01-07",
+            "position":"M"
+          },
+          {
+            "name":"Héldon",
+            "number":"nil",
+            "nationality":"Cabo Verde",
+            "birthdate":"1988-11-14",
+            "position":"M"
+          },
+          {
+            "name":"Douglas Jesus",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1983-03-09",
+            "position":"G"
+          },
+          {
+            "name":"Moreno",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1981-08-19",
+            "position":"D"
+          },
+          {
+            "name":"Miguel Oliveira",
+            "number":36,
+            "nationality":"Portugal",
+            "birthdate":"1994-05-25",
+            "position":"G"
+          },
+          {
+            "name":"João Afonso",
+            "number":5,
+            "nationality":"Portugal",
+            "birthdate":"1990-05-28",
+            "position":"D"
+          },
+          {
+            "name":"Mattheus",
+            "number":94,
+            "nationality":"Brazil",
+            "birthdate":"1994-07-07",
+            "position":"M"
+          },
+          {
+            "name":"Xande Silva",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-03-16",
+            "position":"M"
+          },
+          {
+            "name":"Joseph Amoah",
+            "number":15,
+            "nationality":"Ghana",
+            "birthdate":"1994-06-26",
+            "position":"M"
+          },
+          {
+            "name":"Dénis Duarte",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-05-04",
+            "position":"D"
+          },
+          {
+            "name":"Pedro Henrique",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-12-18",
+            "position":"D"
+          },
+          {
+            "name":"João Vigário",
+            "number":17,
+            "nationality":"Portugal",
+            "birthdate":"1995-11-20",
+            "position":"D"
+          },
+          {
+            "name":"Rafael Martins",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1989-03-17",
+            "position":"A"
+          },
+          {
+            "name":"Miguel Silva",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-04-07",
+            "position":"G"
+          },
+          {
+            "name":"Víctor García",
+            "number":"nil",
+            "nationality":"Venezuela (Bolivarian Republic of)",
+            "birthdate":"1994-06-11",
+            "position":"D"
+          },
+          {
+            "name":"Francisco Ramos",
+            "number":88,
+            "nationality":"Portugal",
+            "birthdate":"1995-04-10",
+            "position":"M"
+          },
+          {
+            "name":"Hélder Ferreira",
+            "number":7,
+            "nationality":"Portugal",
+            "birthdate":"1997-04-05",
+            "position":"M"
+          },
+          {
+            "name":"Falaye Sacko",
+            "number":17,
+            "nationality":"Mali",
+            "birthdate":"1995-05-01",
+            "position":"D"
+          },
+          {
+            "name":"Kiko Rodrigues",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1997-02-27",
+            "position":"M"
+          },
+          {
+            "name":"Jubal Júnior",
+            "number":3,
+            "nationality":"Brazil",
+            "birthdate":"1993-08-29",
+            "position":"D"
+          },
+          {
+            "name":"Ghislain Konan",
+            "number":3,
+            "nationality":"Côte d'Ivoire",
+            "birthdate":"1995-12-27",
+            "position":"D"
+          },
+          {
+            "name":"Raphinha",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1996-12-14",
+            "position":"M"
+          },
+          {
+            "name":"Guillermo Celis",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1993-05-08",
+            "position":"M"
+          },
+          {
+            "name":"Rúben Oliveira",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-12-14",
+            "position":"M"
+          },
+          {
+            "name":"Rafael Miranda",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1984-08-11",
+            "position":"M"
+          },
+          {
+            "name":"Welthon Fiel",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-06-21",
+            "position":"A"
+          },
+          {
+            "name":"Marcos Valente",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-02-04",
+            "position":"D"
+          },
+          {
+            "name":"Sebastián Rincón",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1994-01-14",
+            "position":"M"
+          },
+          {
+            "name":"Óscar Estupiñán",
+            "number":"nil",
+            "nationality":"Colombia",
+            "birthdate":"1996-12-29",
+            "position":"A"
+          },
+          {
+            "name":"Suéliton Nogueira",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-06-26",
+            "position":"D"
+          },
+          {
+            "name":"Maga",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1999-04-19",
+            "position":"D"
+          },
+          {
+            "name":"Tallo Junior",
+            "number":"nil",
+            "nationality":"Côte d'Ivoire",
+            "birthdate":"1992-12-21",
+            "position":"A"
+          }
+        ]
+      },
+      {
+        "name":"V. Setúbal",
+        "acronym":"VFC",
+        "players":[
+          {
+            "name":"Cristiano",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1990-11-29",
+            "position":"G"
+          },
+          {
+            "name":"Yohan Tavares",
+            "number":23,
+            "nationality":"Portugal",
+            "birthdate":"1988-03-02",
+            "position":"D"
+          },
+          {
+            "name":"Wallyson Mallmann",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-02-16",
+            "position":"M"
+          },
+          {
+            "name":"Pedro Trigueira",
+            "number":88,
+            "nationality":"Portugal",
+            "birthdate":"1988-01-04",
+            "position":"G"
+          },
+          {
+            "name":"João Teixeira",
+            "number":24,
+            "nationality":"Portugal",
+            "birthdate":"1994-06-02",
+            "position":"M"
+          },
+          {
+            "name":"Nênê Bonilha",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1992-02-17",
+            "position":"M"
+          },
+          {
+            "name":"Nuno Pinto",
+            "number":21,
+            "nationality":"Portugal",
+            "birthdate":"1986-08-06",
+            "position":"D"
+          },
+          {
+            "name":"Costinha",
+            "number":20,
+            "nationality":"Portugal",
+            "birthdate":"1992-08-25",
+            "position":"M"
+          },
+          {
+            "name":"Arnold Issoko",
+            "number":"nil",
+            "nationality":"Congo",
+            "birthdate":"1992-04-06",
+            "position":"M"
+          },
+          {
+            "name":"Patrick Vieira",
+            "number":91,
+            "nationality":"Brazil",
+            "birthdate":"1991-01-22",
+            "position":"D"
+          },
+          {
+            "name":"Tomás Podstawski",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1995-01-30",
+            "position":"M"
+          },
+          {
+            "name":"Bernardo Morgado",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1998-03-24",
+            "position":"D"
+          },
+          {
+            "name":"André Sousa",
+            "number":16,
+            "nationality":"Portugal",
+            "birthdate":"1998-02-26",
+            "position":"D"
+          },
+          {
+            "name":"André Pedrosa",
+            "number":27,
+            "nationality":"Portugal",
+            "birthdate":"1997-04-12",
+            "position":"M"
+          },
+          {
+            "name":"Vasco Fernandes",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-11-12",
+            "position":"D"
+          },
+          {
+            "name":"Pedro Pinto",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1994-11-08",
+            "position":"D"
+          },
+          {
+            "name":"João Amaral",
+            "number":77,
+            "nationality":"Portugal",
+            "birthdate":"1991-09-07",
+            "position":"M"
+          },
+          {
+            "name":"Edinho",
+            "number":36,
+            "nationality":"Portugal",
+            "birthdate":"1982-07-07",
+            "position":"A"
+          },
+          {
+            "name":"Nuno Reis",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1991-01-31",
+            "position":"D"
+          },
+          {
+            "name":"Luís Felipe",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1991-04-08",
+            "position":"D"
+          },
+          {
+            "name":"Rafinha",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1992-04-30",
+            "position":"M"
+          },
+          {
+            "name":"Jacob Adebanjo",
+            "number":"nil",
+            "nationality":"Nigeria",
+            "birthdate":"1993-09-05",
+            "position":"M"
+          },
+          {
+            "name":"Allef",
+            "number":"nil",
+            "nationality":"Brazil",
+            "birthdate":"1994-11-04",
+            "position":"A"
+          },
+          {
+            "name":"Yannick Djaló",
+            "number":"nil",
+            "nationality":"Portugal",
+            "birthdate":"1986-05-05",
+            "position":"M"
+          },
+          {
+            "name":"José Semedo",
+            "number":29,
+            "nationality":"Portugal",
+            "birthdate":"1985-01-11",
+            "position":"M"
+          },
+          {
+            "name":"André Pereira",
+            "number":77,
+            "nationality":"Portugal",
+            "birthdate":"1995-05-05",
+            "position":"A"
+          },
+          {
+            "name":"Emrah Başsan",
+            "number":"nil",
+            "nationality":"Turkey",
+            "birthdate":"1992-04-17",
+            "position":"M"
+          },
+          {
+            "name":"Thomas Rodríguez",
+            "number":"nil",
+            "nationality":"Chile",
+            "birthdate":"1996-04-05",
+            "position":"M"
+          }
+        ]
+      }
+    ]
+  }
+}
