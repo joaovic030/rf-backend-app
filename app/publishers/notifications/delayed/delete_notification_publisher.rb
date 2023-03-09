@@ -5,6 +5,9 @@ module Notifications
     class DeleteNotificationPublisher
       attr_reader :notification_id
 
+      QUEUE = 'delete_notification'
+      EXCHANGE_NAME = 'delayed_messages.subscription'
+      ROUTING_KEY = "#{EXCHANGE_NAME}.#{QUEUE}"
       DELAY = 1.minute
 
       class << self
@@ -27,9 +30,9 @@ module Notifications
 
       def queue_params
         {
-          queue:         'delete_notification',
-          exchange_name: 'delayed_messages.subscription',
-          routing_key:   'delayed_messages.subscription.delete_notification',
+          queue:         QUEUE,
+          exchange_name: EXCHANGE_NAME,
+          routing_key:   ROUTING_KEY,
           headers:       { 'x-delay': (DELAY).to_i.in_milliseconds }
         }
       end
