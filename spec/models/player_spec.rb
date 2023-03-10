@@ -58,7 +58,7 @@ RSpec.describe Player, type: :model do
 
       it { expect(player.track_changes).to eq(message) }
       it { expect(player.previous_changes).to have_key(:age) }
-      it { expect(player.previous_changes).to have_key(:updated_at) }
+      it { expect(player.previous_changes).to have_key(:updated_at) } # there is an intermittent error to fix
       it { expect(player.previous_changes.values.first).to eq([player_age, player.age]) }
       it { expect(player.previous_changes.values.last).to eq([player_updated_at, player.updated_at]) }
     end

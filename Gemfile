@@ -15,6 +15,8 @@ gem "graphql", "~> 1.12.12"
 gem 'bunny', '~> 2.20', '>= 2.20.3'
 gem 'sneakers', '~> 2.12'
 gem 'rake', '~> 12.3'
+gem 'rack-cors', '~> 2.0'
+gem 'graphql_playground-rails'
 
 group :development, :test do
   gem 'byebug', '~> 11.1', '>= 11.1.3', platforms: %i[mri mingw x64_mingw]
