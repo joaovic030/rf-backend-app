@@ -12,6 +12,14 @@ module Types
       field :position, String, null: false, description: 'In which position this player plays'
       field :team_id, Int, null: true, description: 'Team ID'
       field :team, Types::Team::TeamType, null: true, description: 'Team which this player plays for'
+      field :subscribed, Boolean, null: true, description: 'Allow to know if a user is subscribed to a player'
+
+
+      def subscribed
+        return false unless context[:current_user]
+
+        object.subscribed?(context[:current_user])
+      end
     end
   end
 end

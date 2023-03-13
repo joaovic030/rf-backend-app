@@ -10,7 +10,13 @@ down:
 	${DCMP} down
 
 start:
-	RAILS server
+	RAILS_ENV=development bash ./server.sh
+
+install:
+	sudo apt install libpq-dev || brew install postgres
+	gem install bundler
+	bundle lock --add-platform x86_64-linux ruby x86-mingw32 x86-mswin32 x64-mingw32 java
+	bundle install
 
 setup-queues-and-run:
 	make sneakers-run

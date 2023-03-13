@@ -1,5 +1,7 @@
 class Player < ApplicationRecord
   has_many :player_user_subscriptions
+  has_many :notifications, dependent: :delete_all
+
   belongs_to :team, optional: true
 
   after_update :publish_notification
@@ -17,5 +19,9 @@ class Player < ApplicationRecord
     end
 
     message
+  end
+
+  def subscribed?(user_id = nil)
+    player_user_subscriptions.exists?(user_id: user_id)
   end
 end

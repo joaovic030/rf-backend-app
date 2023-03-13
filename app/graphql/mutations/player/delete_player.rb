@@ -8,7 +8,7 @@ module Mutations
       def resolve(**args)
         player = ::Player.find(args[:id])
 
-        player.tap { |player| player.delete }
+        player.tap { |player| player.destroy }
       end
     end
   end

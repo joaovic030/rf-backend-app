@@ -70,4 +70,23 @@ RSpec.describe Player, type: :model do
 
     it { expect(player.team).to eq(team) }
   end
+
+  describe '.subscribed(user_id)' do
+    context 'when user is supplied' do
+      let!(:user) { create(:user) }
+
+      before do
+        create(:player_user_subscription, player: player, user: user)
+      end
+
+      it { expect(player.subscribed?(user.id)).to be true }
+    end
+
+    context 'when user is not supplied or user is not subscribed to player' do
+      let!(:user) { create(:user) }
+
+      it { expect(player.subscribed?(nil)).to be_falsey }
+      it { expect(player.subscribed?(user.id)).to be_falsey }
+    end
+  end
 end
