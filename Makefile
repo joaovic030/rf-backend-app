@@ -1,5 +1,4 @@
 DCMP = docker-compose
-RAILS = bundle exec rails
 
 #== DEVS ==================================================
 
@@ -23,10 +22,10 @@ setup-queues-and-run:
 	make setup-rabbitmq
 
 setup-rabbitmq:
-	bundle exec rake rabbitmq:setup
+	rake rabbitmq:setup
 
 sneakers-run:
-	bundle exec rake sneakers:run
+	rake sneakers:run
 
 seed-players:
 	rake data_from_api:load
